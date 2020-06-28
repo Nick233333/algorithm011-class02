@@ -10,7 +10,7 @@
 
 算法复杂度有三个级别：最低、平均、最高。一般只看最高级别。
 
-#### 7 种算法复杂度
+### 7 种算法复杂度
 
 1. O(1): Constant Complexity 常数复杂度
 2. O(log n): Logarithmic Complexity 对数复杂度 
