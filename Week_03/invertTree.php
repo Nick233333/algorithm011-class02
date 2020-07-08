@@ -23,6 +23,6 @@ class Solution {
         $right = $root->right;
         $root->left = $this->invertTree($right);
         $root->right = $this->invertTree($left);
-        return $root;
+        return $root; 
     }
 }
